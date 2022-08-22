@@ -6,7 +6,7 @@
 .navbar{
 
 border: none;
-background-color: black;
+background-color: white;
 color: #61122F;
 }
 body{
@@ -14,12 +14,12 @@ body{
 	color: white;
 }
 .glyphicon{
-	font-size: 30px;
+	font-size: 31px;
 	color:#61122F; 
 }
 
 .center{
-	width: 90%;
+	width: 91%;
 	background-color: grey;
 
 }
@@ -28,7 +28,7 @@ body{
 	background-color: grey;
 }
 .text-center{
-	font-size: 30px;
+	font-size: 31px;
 }
 
 h2{
@@ -38,5 +38,5 @@ h2{
 	color: #61122F;
 }
 .navbar-brand{
-font-size: 30px;	
+font-size: 31px;	
 }
